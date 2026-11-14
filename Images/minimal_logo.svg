@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 342 334" width="342" height="334">
+  <title>Minimal abstract logo</title>
+  <path fill="#000000" d="
+    M 176 61
+    L 190 91
+    L 241 206
+    L 202 206
+    C 203 196, 203 189, 199 180
+    L 163 91
+    Z"/>
+  <circle cx="120.5" cy="194.5" r="12.5" fill="#000000"/>
+</svg>
